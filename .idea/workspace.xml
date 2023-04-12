@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="afea5a99-e1e0-4259-8de8-b58a00ecae9e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../UnitTestExample/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UnitTestExample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UnitTestExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UnitTestExample/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UnitTestExample/src/main/java/com/example/unit/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UnitTestExample/src/test/java/com/example/unit/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chatApplication/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chatApplication/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chatApplication/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/chatApplication/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/chatApplication/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/chatApplication/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/chatApplication/Server.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-vodafone-data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-vodafone-data.7z" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jaxb/jaxb/src/main/java/com/spring/jaxb/jaxb/employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rabbitmq/rabbitmq/src/main/java/com/spring/raabitmq/rabbitmq/config/MessagingConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rabbitmq/rabbitmq/src/main/java/com/spring/raabitmq/rabbitmq/dto/order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rabbitmq/rabbitmq/src/main/java/com/spring/raabitmq/rabbitmq/dto/orderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rabbitmq/rabbitmq/src/main/java/com/spring/raabitmq/rabbitmq/publisher/orderPublisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../validationPractice/validationPractice/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../validationPractice/validationPractice/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../validationPractice/validationPractice/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../validationPractice/validationPractice/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../validationPractice/validationPractice/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../validationPractice/validationPractice/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../validationPractice/validationPractice/src/main/java/com/validation/springBoot/validationPractice/ValidationPracticeApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../validationPractice/validationPractice/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../validationPractice/validationPractice/src/test/java/com/validation/springBoot/validationPractice/ValidationPracticeApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2OKIw2L105u0dsziXUOL3QTNxAY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Server">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.chatApplication.App" />
+      <module name="chatApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.chatApplication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.chatApplication.Client" />
+      <module name="chatApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.chatApplication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.chatApplication.Server" />
+      <module name="chatApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.chatApplication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afea5a99-e1e0-4259-8de8-b58a00ecae9e" name="Changes" comment="" />
+      <created>1681303083045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681303083045</updated>
+    </task>
+    <servers />
+  </component>
+</project>
