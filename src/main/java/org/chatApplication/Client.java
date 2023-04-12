@@ -49,7 +49,7 @@ public class Client {
                     System.out.println("server terminated the chat");
                     break;
                 }
-                System.out.println("server"+msg);
+                System.out.println("server\t"+msg);
             }
         };
         new Thread(r1).start();
@@ -80,6 +80,9 @@ public class Client {
 
 
     public static void main(String[] args) {
+
+
         System.out.println("this is client side");
+        new Client();
     }
 }

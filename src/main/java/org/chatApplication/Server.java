@@ -49,7 +49,7 @@ public class Server {
                    System.out.println("client terminated the chat");
                    break;
                }
-               System.out.println("client"+msg);
+               System.out.println("client\t"+msg);
            }
        };
        new Thread(r1).start();
